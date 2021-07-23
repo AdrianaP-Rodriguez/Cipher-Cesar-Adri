@@ -1,0 +1,21 @@
+#box {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(243, 240, 212);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: orange
+}
+
+header {
+    background-color: paleturquoise;
+    height: 100px;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: orange;
+}
